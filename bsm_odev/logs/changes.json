@@ -1,0 +1,18 @@
+[
+    {
+        "event": "created",
+        "file_path": "/home/ubuntu/bsm/test/test_file_3.txt",
+        "timestamp": "2024-12-22 19:17:26"
+    },
+    {
+        "event": "modified",
+        "file_path": "/home/ubuntu/bsm/test/test_file_3.txt",
+        "timestamp": "2024-12-22 19:17:26"
+    },
+    
+    {
+        "event": "deleted",
+        "file_path": "/home/ubuntu/bsm/test/test_file_3.txt",
+        "timestamp": "2024-12-22 19:17:56"
+    }
+]
